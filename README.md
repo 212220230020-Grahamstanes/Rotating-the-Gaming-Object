@@ -57,9 +57,6 @@ public class RotationProject : MonoBehaviour
     }
 }
 ```
-
-<br><br><br><br><br><br><br><br><br>
-
 ## Output:
 ![exp1](https://user-images.githubusercontent.com/75235150/167240121-4b7445e2-0df2-4a04-a262-e9dd04322daa.png)
 
